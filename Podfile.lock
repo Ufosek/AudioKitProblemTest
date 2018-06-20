@@ -1,0 +1,14 @@
+PODS:
+  - AudioKit (4.3):
+    - AudioKit/UI (= 4.3)
+  - AudioKit/UI (4.3)
+
+DEPENDENCIES:
+  - AudioKit
+
+SPEC CHECKSUMS:
+  AudioKit: 95bd2427c1afa7954d71b0c6195a09b87b7448bc
+
+PODFILE CHECKSUM: 7704b0efc92e89868d1224ea015a0f2406d984e4
+
+COCOAPODS: 1.4.0
